@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
     <title>WTF Domains</title>
-    <updated>2021-01-16T15:16:56.716Z</updated>
+    <updated>2021-01-16T15:42:07.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
@@ -10,30 +10,20 @@
     <icon>https://wtfdomains.com/favicon.ico</icon>
     <rights>All rights reserved 2021, WTF Domains</rights>
     <entry>
-        <title type="html"><![CDATA[测试3]]></title>
-        <id>https://wtfdomains.com/ce-shi-3/</id>
-        <link href="https://wtfdomains.com/ce-shi-3/">
+        <title type="html"><![CDATA[WTF Domains正式启航]]></title>
+        <id>https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/</id>
+        <link href="https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/">
         </link>
-        <updated>2021-01-16T15:16:38.000Z</updated>
-        <content type="html"><![CDATA[<p>Vercel测试</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试2]]></title>
-        <id>https://wtfdomains.com/ce-shi-2/</id>
-        <link href="https://wtfdomains.com/ce-shi-2/">
-        </link>
-        <updated>2021-01-16T12:03:16.000Z</updated>
-        <content type="html"><![CDATA[<p>你好</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[测试]]></title>
-        <id>https://wtfdomains.com/ce-shi/</id>
-        <link href="https://wtfdomains.com/ce-shi/">
-        </link>
-        <updated>2021-01-16T07:32:52.000Z</updated>
-        <content type="html"><![CDATA[<p>Hello, world.</p>
+        <updated>2021-01-16T15:21:43.000Z</updated>
+        <content type="html"><![CDATA[<p>Wtfdomains.com这个域名大约在去年9月份就注册了，也一直想着做一个关于域名注册、交易等的新闻博客，但因为个人太懒，就一直把这个域名用于<a href="http://dnpush.com">DNPush</a>的跳转。</p>
+<h2 id="网站logo">网站Logo</h2>
+<p>Logo是用<a href="https://www.namecheap.com/logo-maker/">NameCheap</a>制作的，输入“What the fuck”没想到竟然直接出来了成龙大哥的经典表情包，把其它的文字去掉留下了这个简简单单的头像。<br>
+<img src="https://wtfdomains.com/images/avatar.png" alt="WTFDomains Logo" loading="lazy"></p>
+<h2 id="建站程序">建站程序</h2>
+<p>选择了<a href="https://gridea.dev/">Gridea</a>，纯静态网站，使用Markdown写作。因为个人网站太多了，Wordpress、Hexo和Typecho都用了，再用也就没有什么新鲜感了。</p>
+<h2 id="主机空间">主机空间</h2>
+<p>不知道叫“主机空间”合不合适，单纯为了文章标题字数相同。<br>
+网站没有存放在个人的VPS上，选择了Github和Vercel，速度尚可，零成本。</p>
 ]]></content>
     </entry>
 </feed>
