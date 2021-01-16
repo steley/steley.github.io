@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
-    <title>WTF Domains</title>
-    <updated>2021-01-16T16:18:08.590Z</updated>
+    <title>WTF Domains - What the fuck domains!</title>
+    <updated>2021-01-16T16:37:33.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
     <logo>https://wtfdomains.com/images/avatar.png</logo>
     <icon>https://wtfdomains.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, WTF Domains</rights>
+    <rights>All rights reserved 2021, WTF Domains - What the fuck domains!</rights>
     <entry>
         <title type="html"><![CDATA[WTF Domains 正式启航]]></title>
         <id>https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/</id>
