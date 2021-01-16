@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
-    <title>WTF Domains - What the fuck domains!</title>
-    <updated>2021-01-16T16:37:33.862Z</updated>
+    <title>WTF Domains</title>
+    <updated>2021-01-16T16:40:05.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
+    <subtitle>What the fuck domains!</subtitle>
     <logo>https://wtfdomains.com/images/avatar.png</logo>
     <icon>https://wtfdomains.com/favicon.ico</icon>
-    <rights>All rights reserved 2021, WTF Domains - What the fuck domains!</rights>
+    <rights>All rights reserved 2021, WTF Domains</rights>
     <entry>
         <title type="html"><![CDATA[WTF Domains 正式启航]]></title>
         <id>https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/</id>
@@ -16,6 +17,7 @@
         </link>
         <updated>2021-01-16T15:21:43.000Z</updated>
         <content type="html"><![CDATA[<p>Wtfdomains.com这个域名大约在去年9月份就注册了，也一直想着做一个关于域名注册、交易等的新闻博客，但因为个人太懒，就一直把这个域名用于<a href="http://dnpush.com">DNPush</a>的跳转。</p>
+<p>WTF=&quot;What the fuck&quot;.</p>
 <h2 id="网站logo">网站Logo</h2>
 <p>Logo是用<a href="https://www.namecheap.com/logo-maker/">NameCheap</a>制作的，输入“What the fuck”没想到竟然直接出来了成龙大哥的经典表情包，把其它的文字去掉留下了这个简简单单的头像。<br>
 <img src="https://wtfdomains.com/images/avatar.png" alt="WTFDomains Logo" loading="lazy"></p>
