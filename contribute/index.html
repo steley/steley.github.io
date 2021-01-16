@@ -1,10 +1,11 @@
 
+<!DOCTYPE html>
 <html>
   <head>
     
 <meta charset="utf-8" >
 
-<title>WTF Domains</title>
+<title>爆料 | WTF Domains</title>
 <meta name="description" content="">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -15,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://wtfdomains.com/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -87,42 +94,29 @@ var _hmt = _hmt || [];
 
 
       <div class="content-container">
-        
-        
-<section class="post-item">
-    <div class="content">
-      <a href="https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/">
-        <h2 class="post-title">WTF Domains正式启航</h2>
-      </a>
-      <div class="post-abstract">
-        
-      </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2021-01-16</span>
-        
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
+        <div class="post-detail">
+          
+          <h2 class="post-title">爆料</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2021-01-16</span>
             
-              <a href="https://wtfdomains.com/tag/wtfdomains/">
-                WTFDomains
-                
-              </a>
-            
-          </span>
+          </div>
+          <div class="post-content">
+            <p>如果你有关于域名交易的内幕，也乐于分享的话，可以发送邮件至：<a href="mailto:hello@wtfdomains.com?subject=%E7%88%86%E6%96%99">hello@wtfdomains.com</a>。</p>
+
+          </div>
+        </div>
+
         
       </div>
-    </div>
-    
-  </section>
 
+      
+        
+          <div id="gitalk-container"></div>
+        
 
-<div class="pagination-container">
-  
-  
-</div>
-
-
-      </div>
+        
+      
 
       <div class="site-footer">
   <div class="slogan"></div>
@@ -156,6 +150,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'b4b1295c28c62d64b70c',
+        clientSecret: 'e1dd2d82ecb7b4b99906db2ddfaf7cbc16661972',
+        repo: 'steley.github.io',
+        owner: 'steley',
+        admin: ['steley'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
