@@ -5,7 +5,7 @@
     
 <meta charset="utf-8" >
 
-<title>WTFDomains | WTF Domains</title>
+<title>7万美金购买Newz.com的买家“现身” | WTF Domains</title>
 <meta name="description" content="What the fuck domains!">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -16,6 +16,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://wtfdomains.com/styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -88,48 +94,49 @@ var _hmt = _hmt || [];
 
 
       <div class="content-container">
+        <div class="post-detail">
+          
+          <h2 class="post-title">7万美金购买Newz.com的买家“现身”</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2021-01-18</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://wtfdomains.com/tag/yu-ming-jiao-yi/">
+                    域名交易
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>Newz.com注册于1995年，2020年10月被EmpireNames以15500美元的价格购买，3个月后于2020年12月中旬以7万美金的价格出售。</p>
+<p>近日访问Newz.com，主页只显示Contents Media的Logo，点击后可跳转到网址“contents.media”。<br>
+<img src="https://wtfdomains.com/post-images/1610937614468.png" alt="" loading="lazy"></p>
 
-        <div class="current-tag-container">
-          <h2 class="title">
-            <i class="icon icon-pricetags-outline"></i> WTFDomains
-          </h2> 
+          </div>
         </div>
 
         
-<section class="post-item">
-    <div class="content">
-      <a href="https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/">
-        <h2 class="post-title">WTF Domains 正式启航</h2>
-      </a>
-      <div class="post-abstract">
-        
+          <div class="next-post">
+            <a class="purple-link" href="https://wtfdomains.com/editpadorg-yi-36227-mei-yuan-cheng-jiao/">
+              <h3 class="post-title">
+                下一篇：EditPad.org以36227美元成交
+              </h3>
+            </a>
+          </div>
+          
       </div>
-      <div class="post-info">
-        <span><i class="icon icon-calendar-outline"></i> 2021-01-16</span>
+
+      
         
-          <span>
-            <i class="icon icon-pricetags-outline"></i>
-            
-              <a href="https://wtfdomains.com/tag/wtfdomains/">
-                WTFDomains
-                
-              </a>
-            
-          </span>
+          <div id="gitalk-container"></div>
         
-      </div>
-    </div>
-    
-  </section>
 
-
-<div class="pagination-container">
-  
-  
-</div>
-
-
-      </div>
+        
+      
 
       <div class="site-footer">
   <div class="slogan">What the fuck domains!</div>
@@ -163,6 +170,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'b4b1295c28c62d64b70c',
+        clientSecret: 'e1dd2d82ecb7b4b99906db2ddfaf7cbc16661972',
+        repo: 'steley.github.io',
+        owner: 'steley',
+        admin: ['steley'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 

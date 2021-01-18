@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
     <title>WTF Domains</title>
-    <updated>2021-01-17T04:05:26.347Z</updated>
+    <updated>2021-01-18T02:42:48.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
@@ -11,12 +11,23 @@
     <icon>https://wtfdomains.com/favicon.ico</icon>
     <rights>All rights reserved 2021, WTF Domains</rights>
     <entry>
+        <title type="html"><![CDATA[7万美金购买Newz.com的买家“现身”]]></title>
+        <id>https://wtfdomains.com/7-wan-mei-jin-gou-mai-newzcom-de-mai-jia-xian-shen/</id>
+        <link href="https://wtfdomains.com/7-wan-mei-jin-gou-mai-newzcom-de-mai-jia-xian-shen/">
+        </link>
+        <updated>2021-01-18T02:32:07.000Z</updated>
+        <content type="html"><![CDATA[<p>Newz.com注册于1995年，2020年10月被EmpireNames以15500美元的价格购买，3个月后于2020年12月中旬以7万美金的价格出售。</p>
+<p>近日访问Newz.com，主页只显示Contents Media的Logo，点击后可跳转到网址“contents.media”。<br>
+<img src="https://wtfdomains.com/post-images/1610937614468.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[EditPad.org以36227美元成交]]></title>
         <id>https://wtfdomains.com/editpadorg-yi-36227-mei-yuan-cheng-jiao/</id>
         <link href="https://wtfdomains.com/editpadorg-yi-36227-mei-yuan-cheng-jiao/">
         </link>
         <updated>2021-01-17T03:52:44.000Z</updated>
-        <content type="html"><![CDATA[<p>域名EditPad.org于2021年1月16日在Sedo平台以36,227美元成交，买家可能为美国人，且已被启用建站。目前访问EditPad.org为”Online Text Editor &amp; Wordpad for Notes“，在线的文本编辑器。</p>
+        <content type="html"><![CDATA[<p>域名EditPad.org于2021年1月16日在Sedo平台以36,227美元完成交易，买家可能为美国人，且已被启用建站。目前访问EditPad.org为”Online Text Editor &amp; Wordpad for Notes“，在线的文本编辑器。</p>
 <p>说到这个在线文本编辑器😂，我也有一个<a href="https://www.verybin.com/">Verybin.com</a>，基于开源的PrivateBin，加密、匿名，支持多种语言，支持源文本、源码和Markdown三种文本格式。当初买这个域名花了将近500元。<br>
 <img src="https://wtfdomains.com/post-images/1610856259243.png" alt="" loading="lazy"></p>
 ]]></content>
