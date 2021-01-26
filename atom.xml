@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
     <title>WTF Domains</title>
-    <updated>2021-01-25T03:18:04.248Z</updated>
+    <updated>2021-01-26T05:35:25.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://wtfdomains.com/images/avatar.png</logo>
     <icon>https://wtfdomains.com/favicon.ico</icon>
     <rights>All rights reserved 2021, WTF Domains</rights>
+    <entry>
+        <title type="html"><![CDATA[ComUnit.com以12000美元成交]]></title>
+        <id>https://wtfdomains.com/comunitcom-yi-12000-mei-yuan-cheng-jiao/</id>
+        <link href="https://wtfdomains.com/comunitcom-yi-12000-mei-yuan-cheng-jiao/">
+        </link>
+        <updated>2021-01-26T05:30:21.000Z</updated>
+        <content type="html"><![CDATA[<p>ComUnit.com注册于1995年10月，在Sedo交易平台以12000美元卖出，目前访问ComUnit.com跳转到ComUnit.de。</p>
+<p>同名后缀的注册量也不是很多。<br>
+<img src="https://wtfdomains.com/post-images/1611639293365.png" alt="" loading="lazy"><br>
+<img src="https://wtfdomains.com/post-images/1611639304493.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Digitale.com以14522美元的价格被抢注注册]]></title>
         <id>https://wtfdomains.com/digitalecom-yi-14522-mei-yuan-de-jie-ge-bei-qiang-zhu-zhu-ce/</id>
@@ -127,24 +139,6 @@
 <p>BeElectric同名已注册后缀21个，包括主流的.net和.org以及多个ccTLD，除此之外也有多个包含BeElectric的关键词的域名被注册。<br>
 <img src="https://wtfdomains.com/post-images/1610854484851.png" alt="" loading="lazy"></p>
 <p>在我持有的.com域名中，以”Be“开头的域名仅有一个&quot;BeBolt.com&quot;；以”Electric“为关键词的域名暂时没有。非.com域名还有一个”BeBetter.cc“。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WTF Domains 正式启航]]></title>
-        <id>https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/</id>
-        <link href="https://wtfdomains.com/wtf-domains-zheng-shi-qi-hang/">
-        </link>
-        <updated>2021-01-16T15:21:43.000Z</updated>
-        <content type="html"><![CDATA[<p>Wtfdomains.com这个域名大约在去年9月份就注册了，也一直想着做一个关于域名注册、交易等的新闻博客，但因为个人太懒，就一直把这个域名用于<a href="http://dnpush.com">DNPush</a>的跳转。</p>
-<p>WTF=&quot;What the fuck&quot;.</p>
-<h2 id="网站logo">网站Logo</h2>
-<p>Logo是用<a href="https://www.namecheap.com/logo-maker/">NameCheap</a>制作的，输入“What the fuck”没想到竟然直接出来了成龙大哥的经典表情包，把其它的文字去掉留下了这个简简单单的头像。<br>
-<img src="https://wtfdomains.com/images/avatar.png" alt="WTFDomains Logo" loading="lazy"></p>
-<h2 id="建站程序">建站程序</h2>
-<p>选择了<a href="https://gridea.dev/">Gridea</a>，纯静态网站，使用Markdown写作。因为个人网站太多了，Wordpress、Hexo和Typecho都用了，再用也就没有什么新鲜感了。</p>
-<h2 id="主机空间">主机空间</h2>
-<p>不知道叫“主机空间”合不合适，单纯为了文章标题字数相同。<br>
-网站没有存放在个人的VPS上，选择了Github和Vercel，速度尚可，零成本。</p>
 ]]></content>
     </entry>
 </feed>
