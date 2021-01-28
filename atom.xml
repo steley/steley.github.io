@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
     <title>WTF Domains</title>
-    <updated>2021-01-26T05:35:25.471Z</updated>
+    <updated>2021-01-28T03:04:55.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://wtfdomains.com/images/avatar.png</logo>
     <icon>https://wtfdomains.com/favicon.ico</icon>
     <rights>All rights reserved 2021, WTF Domains</rights>
+    <entry>
+        <title type="html"><![CDATA[域名之王Rick Schwartz以360万美元出售域名BestOdds.com]]></title>
+        <id>https://wtfdomains.com/yu-ming-zhi-wang-rick-schwartz-yi-360-wan-mei-yuan-chu-shou-yu-ming-bestoddscom/</id>
+        <link href="https://wtfdomains.com/yu-ming-zhi-wang-rick-schwartz-yi-360-wan-mei-yuan-chu-shou-yu-ming-bestoddscom/">
+        </link>
+        <updated>2021-01-28T02:54:58.000Z</updated>
+        <content type="html"><![CDATA[<p>该域名注册于1996年，当时的费用为100美元（我听说以前注册是免费的而着）。<br>
+<img src="https://wtfdomains.com/post-images/1611803082613.png" alt="" loading="lazy"></p>
+<p>他在自己的博客中是这样写的：</p>
+<blockquote>
+<p>The domain itself is priced at $1.8 Million (that was also the listing price) and then I get 10 years of royalties which will be another $1.8 Million. You read it correctly. The listing price was $1.8 Million, the sales price was $1.8 Million.</p>
+</blockquote>
+<p>所以价格是180万美元的挂牌价+180万美元的版税？没明白。</p>
+<p>同时，还谈到了像Estibot等的域名价值评估工具。<br>
+<img src="https://wtfdomains.com/post-images/1611802956011.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ComUnit.com以12000美元成交]]></title>
         <id>https://wtfdomains.com/comunitcom-yi-12000-mei-yuan-cheng-jiao/</id>
@@ -125,20 +142,6 @@
         <content type="html"><![CDATA[<p>域名EditPad.org于2021年1月16日在Sedo平台以36,227美元完成交易，买家可能为美国人，且已被启用建站。目前访问EditPad.org为”Online Text Editor &amp; Wordpad for Notes“，在线的文本编辑器。</p>
 <p>说到这个在线文本编辑器😂，我也有一个<a href="https://www.verybin.com/">Verybin.com</a>，基于开源的PrivateBin，加密、匿名，支持多种语言，支持源文本、源码和Markdown三种文本格式。当初买这个域名花了将近500元。<br>
 <img src="https://wtfdomains.com/post-images/1610856259243.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeElectric.com以近4万美元的价格成交]]></title>
-        <id>https://wtfdomains.com/beelectriccom-yi-jin-4-wan-mei-yuan-de-jie-ge-cheng-jiao/</id>
-        <link href="https://wtfdomains.com/beelectriccom-yi-jin-4-wan-mei-yuan-de-jie-ge-cheng-jiao/">
-        </link>
-        <updated>2021-01-17T03:09:20.000Z</updated>
-        <content type="html"><![CDATA[<p>BeElectric.com于2021年1月15日以39,995美元完成交易，目前访问该域名显示的是Dan的出售页面，出售人为QualityNames.com。</p>
-<p>BeElectric.com注册于2004年9月，在2019年11月曾经以860美元的价格在Namejet成交（预定？）。</p>
-<p>谷歌搜索”BeElectric“，排名靠前的为”Be Electric Studios“，2014年成立于美国纽约的一家电影制作公司，目前使用的域名为”beelectric.tv“。</p>
-<p>BeElectric同名已注册后缀21个，包括主流的.net和.org以及多个ccTLD，除此之外也有多个包含BeElectric的关键词的域名被注册。<br>
-<img src="https://wtfdomains.com/post-images/1610854484851.png" alt="" loading="lazy"></p>
-<p>在我持有的.com域名中，以”Be“开头的域名仅有一个&quot;BeBolt.com&quot;；以”Electric“为关键词的域名暂时没有。非.com域名还有一个”BeBetter.cc“。</p>
 ]]></content>
     </entry>
 </feed>
