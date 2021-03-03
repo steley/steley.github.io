@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
     <title>WTF Domains</title>
-    <updated>2021-02-05T02:32:18.728Z</updated>
+    <updated>2021-03-03T16:45:25.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
@@ -10,6 +10,30 @@
     <logo>https://wtfdomains.com/images/avatar.png</logo>
     <icon>https://wtfdomains.com/favicon.ico</icon>
     <rights>All rights reserved 2021, WTF Domains</rights>
+    <entry>
+        <title type="html"><![CDATA[utxo.com卖了20000美元]]></title>
+        <id>https://wtfdomains.com/utxocom-mai-liao-20000-mei-yuan/</id>
+        <link href="https://wtfdomains.com/utxocom-mai-liao-20000-mei-yuan/">
+        </link>
+        <updated>2021-03-03T16:25:14.000Z</updated>
+        <content type="html"><![CDATA[<p>4字母域名utxo.com于3月2日在Sedo平台售出，价格为20000美元。</p>
+<blockquote>
+<p>Domain Name: UTXO.COM<br>
+Registry Domain ID: 535148555_DOMAIN_COM-VRSN<br>
+Registrar WHOIS Server: whois.name.com<br>
+Registrar URL: http://www.name.com<br>
+Updated Date: 2021-03-02T13:37:13Z<br>
+Creation Date: 2006-07-28T09:09:02Z<br>
+Registry Expiry Date: 2023-07-28T09:09:02Z<br>
+Registrar: Name.com, Inc.</p>
+</blockquote>
+<p>该域名注册于2006年，且曾经被多次出售。<br>
+<img src="https://wtfdomains.com/post-images/1614789374512.png" alt="" loading="lazy"><br>
+<img src="https://wtfdomains.com/post-images/1614789439960.png" alt="" loading="lazy"></p>
+<p>UTXO (Unspent Transaction Outputs)是未花费的交易输出,它是比特币交易生成及验证的一个核心概念。目前访问该域名为空白页面，买家未知。</p>
+<p>PS. utxo.com.cn仍未被注册。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GetSpeechify公司以75000美元收购Speechify.com]]></title>
         <id>https://wtfdomains.com/getspeechify-gong-si-yi-75000-mei-yuan-shou-gou-speechifycom/</id>
@@ -178,19 +202,6 @@
 <p>该域名注册于1997年，目前访问Shes.com为其停放页面。</p>
 <p><img src="https://wtfdomains.com/post-images/1611122317419.png" alt="" loading="lazy"><br>
 同名后缀注册量为77个，很适合做个跟女性相关的项目，Shes.cn目前为茜子官网，是一家成立于2000年、专注于高级发饰的原创设计师品牌。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meritum.com以17540美元成交]]></title>
-        <id>https://wtfdomains.com/meritumcom-yi-17540-mei-yuan-cheng-jiao/</id>
-        <link href="https://wtfdomains.com/meritumcom-yi-17540-mei-yuan-cheng-jiao/">
-        </link>
-        <updated>2021-01-18T06:25:22.000Z</updated>
-        <content type="html"><![CDATA[<p>Meritum用谷歌翻译会自动检测为波兰语，意思为“优点”；百度翻译会自动检测为马来语，意思为“分生组织”，但用百度搜索的还会告诉你是德语，有“功德，功绩”的意思。</p>
-<p>该域名注册于1999年12月，对应多个终端，仅同名后缀注册量就有68个。<br>
-<img src="https://wtfdomains.com/post-images/1610951366216.png" alt="" loading="lazy"></p>
-<p>谷歌搜索排名前列的分别为：Meritum Cloud和Meritum Energy，一个做微软云相关业务一个做能源方面的业务。</p>
-<p>目前访问该域名为停放页面。</p>
 ]]></content>
     </entry>
 </feed>
