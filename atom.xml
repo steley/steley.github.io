@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtfdomains.com</id>
     <title>WTF Domains</title>
-    <updated>2021-03-03T16:45:25.362Z</updated>
+    <updated>2021-03-06T01:50:02.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtfdomains.com"/>
     <link rel="self" href="https://wtfdomains.com/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://wtfdomains.com/images/avatar.png</logo>
     <icon>https://wtfdomains.com/favicon.ico</icon>
     <rights>All rights reserved 2021, WTF Domains</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年3月5日Sedo日报]]></title>
+        <id>https://wtfdomains.com/2021-nian-3-yue-5-ri-sedo-ri-bao/</id>
+        <link href="https://wtfdomains.com/2021-nian-3-yue-5-ri-sedo-ri-bao/">
+        </link>
+        <updated>2021-03-06T01:33:18.000Z</updated>
+        <content type="html"><![CDATA[<ol>
+<li>
+<p>OpsReady.com<br>
+售价4500美元，域名注册于2011年，目前访问该域名为停放页面，暂未启用。谷歌搜索OpsReady，排在前列的网站为OpsReady.ai。<br>
+相关终端：<br>
+<img src="https://wtfdomains.com/post-images/1614994860224.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>RvZoo.com<br>
+售价3500美元，域名注册于2003年，目前访问该域名为停放页面，暂未启用。RV应该是“Recreational Vehicle”的缩写，即“房车”。目前相关网站只有RvZoo.net，主营房车露营预订，购买的可能性较大。</p>
+</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[utxo.com卖了20000美元]]></title>
         <id>https://wtfdomains.com/utxocom-mai-liao-20000-mei-yuan/</id>
@@ -189,19 +209,6 @@ Registrar: Name.com, Inc.</p>
 <p>他们的电影包括《Now for Something Completely Different》、《Monty Python's the Holy Grail》、《Monty Python and the Life of Brian》、《Monty Python and the Meaning of Life》等。其中，The Holy Grail和Life of Brian被广泛的认为是电影史上最优秀的喜剧作品，40多年过去了依然高居IMDB网站前250的行列。</p>
 </blockquote>
 <p>该域名注册于1998年12月，目前访问该域名处于停放状态。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shes.com在Namejet以22722美元成交]]></title>
-        <id>https://wtfdomains.com/shescom-zai-namejet-yi-22722-mei-yuan-cheng-jiao/</id>
-        <link href="https://wtfdomains.com/shescom-zai-namejet-yi-22722-mei-yuan-cheng-jiao/">
-        </link>
-        <updated>2021-01-20T05:52:41.000Z</updated>
-        <content type="html"><![CDATA[<p>Shes.com今日被爆出以22722美元成交，通过查询Whois信息成交日期可能为今年的1月16日。<br>
-<img src="https://wtfdomains.com/post-images/1611122226276.png" alt="" loading="lazy"></p>
-<p>该域名注册于1997年，目前访问Shes.com为其停放页面。</p>
-<p><img src="https://wtfdomains.com/post-images/1611122317419.png" alt="" loading="lazy"><br>
-同名后缀注册量为77个，很适合做个跟女性相关的项目，Shes.cn目前为茜子官网，是一家成立于2000年、专注于高级发饰的原创设计师品牌。</p>
 ]]></content>
     </entry>
 </feed>
